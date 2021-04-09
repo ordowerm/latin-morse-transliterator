@@ -1,7 +1,7 @@
 /*
  * Latin-to-Morse Transl(iter)ator
  * Michael Ordower
- * Ver 0.1
+ * Ver 1.0
  * April 2021
  * 
  * Project Description:
